@@ -1,0 +1,1 @@
+worker: python Cry-bot_git.py
