@@ -22,13 +22,6 @@ idna==2.10
 importlib-metadata==4.0.1
 incremental==21.3.0
 isort==5.6.4
-Kivy==1.11.1
-kivy-deps.angle==0.3.0
-kivy-deps.glew==0.3.0
-kivy-deps.gstreamer==0.3.1
-kivy-deps.sdl2==0.3.1
-Kivy-Garden==0.1.4
-kivymd==0.104.1
 lazy-object-proxy==1.4.3
 mccabe==0.6.1
 mpmath==1.1.0
